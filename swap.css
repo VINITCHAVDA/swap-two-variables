@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(119, 177, 119);
+}
+
+.main{
+ text-align: center;
+ margin: 10% 10% 10% 20%;
+ border: 2px solid black;
+ position: absolute;
+ height: 30vh;
+ width: 40vw;
+ color: black;
+ border-radius: 20px;
+ background-color: white;
+}
+
+button{
+    width: 15%;
+}
